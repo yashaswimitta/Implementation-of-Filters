@@ -177,4 +177,4 @@ ii) Using Laplacian Operator
 
 
 ## Result:
-Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
+Thus the filters are designed for smoothing and sharpening the images in the spatial domaIn.
